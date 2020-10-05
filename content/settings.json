@@ -6,5 +6,6 @@
     "dark": "/logo-dark.svg"
   },
   "github": "phocks/voicefor",
-  "twitter": "@phocks"
+  "twitter": "@phocks",
+  "defaultDir": ""
 }
