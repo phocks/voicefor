@@ -1,8 +1,3 @@
-// nuxt.config.js
-export default {
-  buildModules: ["@nuxt/typescript-build"],
-  modules: ["@nuxt/content"],
-  content: {
-    // Options
-  },
-};
+import theme from '@nuxt/content-theme-docs'
+
+export default theme({})

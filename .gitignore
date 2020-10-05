@@ -1,11 +1,10 @@
-# dependencies
 node_modules
-
-# logs
-npm-debug.log
-
-# Nuxt build
+*.iml
+.idea
+*.log*
 .nuxt
-
-# Nuxt generate
+.vscode
+.DS_Store
+coverage
 dist
+sw.*

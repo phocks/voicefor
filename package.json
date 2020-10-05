@@ -1,18 +1,15 @@
 {
   "name": "voicefor",
-  "license": "MIT",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt start"
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content": "^1.9.0",
-    "nuxt": "^2.14.6"
-  },
-  "devDependencies": {
-    "@nuxt/types": "^2.14.6",
-    "@nuxt/typescript-build": "^2.0.3"
+    "@nuxt/content-theme-docs": "^0.6.0",
+    "nuxt": "^2.14.5"
   }
 }
