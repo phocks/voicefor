@@ -1,9 +1,13 @@
 ---
 title: Setup
-description: ''
+description: 'Setting up'
 position: 2
 category: ""
 ---
+
+# A test
+
+Yeah.
 
 <!-- Check the [Nuxt.js documentation](https://nuxtjs.org/guides/configuration-glossary/configuration-modules) for more information about installing and using modules in Nuxt.js.
 
