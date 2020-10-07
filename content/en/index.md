@@ -9,7 +9,9 @@ category: ''
 #   - Feature 3
 ---
 
-<app-color-switcher class="inline-flex ml-2"></app-color-switcher>
+This is some initial content.
+
+<!-- <app-color-switcher class="inline-flex ml-2"></app-color-switcher> -->
 
 <!-- <img src="/preview.png" class="light-img" width="1280" height="640" alt=""/>
 <img src="/preview-dark.png" class="dark-img" width="1280" height="640" alt=""/>
