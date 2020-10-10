@@ -2,8 +2,8 @@
   "title": "Voice For",
   "url": "https://voicefor.ml",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/voicefor.svg",
+    "dark": "/voicefor.svg"
   },
   "github": "phocks/voicefor",
   "twitter": "@phocks",
