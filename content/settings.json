@@ -1,11 +1,11 @@
 {
-  "title": "Voice For",
+  "title": "VoiceFor",
   "url": "https://voicefor.ml",
   "logo": {
     "light": "/voicefor.svg",
-    "dark": "/voicefor.svg"
+    "dark": "/voicefor-dark.svg"
   },
   "github": "phocks/voicefor",
-  "twitter": "@phocks",
+  "twitter": "1voicefor",
   "defaultDir": ""
 }
