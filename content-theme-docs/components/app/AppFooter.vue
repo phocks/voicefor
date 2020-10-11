@@ -7,7 +7,7 @@
     >
       <div class="flex items-end">
         <a href="https://nuxtjs.org" target="_blank" rel="noopener">
-          built with nuxt.org
+          nuxt.org
           <!-- <BuiltWithNuxtLight class="h-4 light-img" />
           <BuiltWithNuxtDark class="h-4 dark-img" /> -->
         </a>
